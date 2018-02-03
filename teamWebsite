@@ -11,13 +11,10 @@
 		<article>
 			<p>Posted by Inner Turmoil on February 3, 2018</p>
 			<h2>Chase Ford</h2>
+			<img src = "Images/Cover Photo.jpg" width="250px" height="250px" alt="Photo of Chase Ford" />
 			<h3>All About Me</h3>
+			<h4>I was born and raised in Santa Clarita, CA and transferred to Boise State after a year and a half at my local Community College. I attended Boise State in order to join the GIMM program, because technology has always been a passion of mine, and I see very big growth in this field in the near the future. Growing up, I played sports all my life, and I love to be in the outdoors. I ride motorcycles, mountain bikes, I snowboard, surf, and skate. Boise has treated me extremely well so far, and I am excited to see where the future takes me. I am very excited in taking this Mobile Web Development course and having the opportunity to creative an interactive mobile application. I have yet to decide a specific field I want to go into after I graduate, but I want to use both my programming skills, and creative mindset to make an impact in our society</h4>
 			
-			<h3>Web Design</h3>
-			<ul>
-				<li><a href="http://net.tutsplus.com/">Nettuts</a> contains many great web tutorials</li>
-				<li><a href="http://www.makebetterwebsites.com">Make Better Web sites</a> is a great place to get inspiration</li>
-			</ul>
 		</article>
 		<article>
 			<h2>Zoe Doman</h2>
