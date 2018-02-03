@@ -1,29 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<meta charset=utf-8 />
-		<title>My blog</title>
+		<meta charset="utf-8" />
+		<title>Inner Turmoil</title>
 	</head>
 	<body>
 		<header>
-			<h1>My blog</h1>
+			<h1>Our Team</h1>
 		</header>
-			<nav>
-				<ol>
-					<li><a href="index.html">Home</a></li>
-					<li><a href="portfolio.html">Portfolio</a></li>
-					<li><a href="about.html">About me</a></li>
-					<li><a href="contact.html">Contact me</a></li>
-				</ol>
-			</nav>
 		<article>
 			<p>Posted by Inner Turmoil on February 3, 2018</p>
 			<h2>Chase Ford</h2>
 			<h3>All About Me</h3>
-			<ul>
-				<li>I attend <a href="http://www.utexas.edu">UT</a></li>
-				<li>I am a student in the <a href="http://www.edb.utexas.edu/education/departments/ci/programs/it/">Learning Technologies</a> program</li>
-			</ul>
+			
 			<h3>Web Design</h3>
 			<ul>
 				<li><a href="http://net.tutsplus.com/">Nettuts</a> contains many great web tutorials</li>
@@ -33,22 +22,16 @@
 		<article>
 			<h2>Zoe Doman</h2>
 			<p>Posted by Author on February 3, 2018</p>
-			<p>All About Me</p>
-			<img src="img/parrot.jpg" width="480" height="480" alt="My pet parrot hanging out in the backyard" />
-			<p>My pet parrot hanging out in the backyard</p>
+			
 		</article>
 		<article>
 			<h2>Nathan Lewis</h2>
 			<p>Posted by Author on February 3, 2018</p>
 			<p>All About Me</p>
-			<ol>
-				<li>HTML is easy!</li>
-				<li>HTML is used to structure content</li>
-				<li>HTML is used alongside CSS and JavaScript to build web pages</li>
-			</ol>
+			
 		</article>
 		<footer>
-			<p>&copy;2012 The author <br />
+			<p>&copy;2018 The author <br />
 			<a href="mailto:zoedoman@u.boisestate.edu">E-mail the author</a></p>
 		</footer>
 	</body>
