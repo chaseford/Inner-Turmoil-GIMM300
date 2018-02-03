@@ -17,9 +17,9 @@
 				</ol>
 			</nav>
 		<article>
-			<p>Posted by Author on February 3, 2012</p>
-			<h2>My favorite links</h2>
-			<h3>School</h3>
+			<p>Posted by Inner Turmoil on February 3, 2018</p>
+			<h2>Chase Ford</h2>
+			<h3>All About Me</h3>
 			<ul>
 				<li>I attend <a href="http://www.utexas.edu">UT</a></li>
 				<li>I am a student in the <a href="http://www.edb.utexas.edu/education/departments/ci/programs/it/">Learning Technologies</a> program</li>
@@ -31,15 +31,16 @@
 			</ul>
 		</article>
 		<article>
-			<h2>My pet parrot</h2>
-			<p>Posted by Author on February 2, 2012</p>
+			<h2>Zoe Doman</h2>
+			<p>Posted by Author on February 3, 2018</p>
+			<p>All About Me</p>
 			<img src="img/parrot.jpg" width="480" height="480" alt="My pet parrot hanging out in the backyard" />
 			<p>My pet parrot hanging out in the backyard</p>
 		</article>
 		<article>
-			<h2>Learning HTML5</h2>
-			<p>Posted by Author on February 1, 2012</p>
-			<p>I'm learning HTML5 and so far, it's going great! I have learned a few things that I thought I would share:</p>
+			<h2>Nathan Lewis</h2>
+			<p>Posted by Author on February 3, 2018</p>
+			<p>All About Me</p>
 			<ol>
 				<li>HTML is easy!</li>
 				<li>HTML is used to structure content</li>
@@ -48,7 +49,7 @@
 		</article>
 		<footer>
 			<p>&copy;2012 The author <br />
-			<a href="mailto:author@email.com">E-mail the author</a></p>
+			<a href="mailto:zoedoman@u.boisestate.edu">E-mail the author</a></p>
 		</footer>
 	</body>
 </html>
