@@ -8,28 +8,35 @@
 		<header>
 			<h1>Our Team</h1>
 		</header>
+	<class = "Chase">
 		<article>
 			<p>Posted by Inner Turmoil on February 3, 2018</p>
 			<h2>Chase Ford</h2>
+			<img src = "Images/Cover Photo.jpg" width="250px" height="250px" alt="Photo of Chase Ford" />
 			<h3>All About Me</h3>
+			<h4>I was born and raised in Santa Clarita, CA and transferred to Boise State after a year and a half at my local Community College. I attended Boise State in order to join the GIMM program, because technology has always been a passion of mine, and I see very big growth in this field in the near the future. Growing up, I played sports all my life, and I love to be in the outdoors. I ride motorcycles, mountain bikes, I snowboard, surf, and skate. Boise has treated me extremely well so far, and I am excited to see where the future takes me. I am very excited in taking this Mobile Web Development course and having the opportunity to creative an interactive mobile application. I have yet to decide a specific field I want to go into after I graduate, but I want to use both my programming skills, and creative mindset to make an impact in our society</h4>
 			
-			<h3>Web Design</h3>
-			<ul>
-				<li><a href="http://net.tutsplus.com/">Nettuts</a> contains many great web tutorials</li>
-				<li><a href="http://www.makebetterwebsites.com">Make Better Web sites</a> is a great place to get inspiration</li>
-			</ul>
 		</article>
+		</class>
+		<class = "Zoe">
 		<article>
 			<h2>Zoe Doman</h2>
-			<p>Posted by Author on February 3, 2018</p>
+			<img src ="file:///C:/Users/LabUser/Downloads/IMG_2579.jpeg" alt = "Photo of Zoe Doman" width="150px" height="250px"</img>
+			<h3>All About Me</h3>
+			<h4>I have lived in Boise since I was born and attend Boise State University. Making the decision to major in Game Development was purley based on my love for video games and technology. This field is always growing and I am exciting to be a part of the growth. I consider myself a creative person and aim to express that creativity through the games and interfaces I create. One dream of mine is to eventually make my way over to Japan to broaden my skills and understanding of how technology effects people around the world. Through this course, I hope to create a sturdy coding foundation by developing apps and websites that are not only functional and efficient, but appealing as well.  </h4>
 			
 		</article>
+		</class>
+		<class = "Nathan">
 		<article>
 			<h2>Nathan Lewis</h2>
+			<img src = "WebsitePhotos/BioPhoto.jpg" alt="Photo of Nathan Lewis" width="150px" height="250px">
+			<h3>All About Me</h3>
+			<h4>I was born and raised in Boise, Idaho and have been involved with games and interactive media for as long as I remember. I think we as a society are generally unaware of how fast developing technologies affect our psychology. As someone who wants to work in video games and interactive experiences in the future, I feel understanding how people are affected by technology is integral to understanding the morality of development in that space. In this course I hope to gain both the knowledge and sense to responsibly use the best tools available in web development. I also hope to find insight into how best to personally react to the rapid changes in technology around me.</h4>  
 			<p>Posted by Author on February 3, 2018</p>
-			<p>All About Me</p>
 			
 		</article>
+		</class>
 		<footer>
 			<p>&copy;2018 The author <br />
 			<a href="mailto:zoedoman@u.boisestate.edu">E-mail the author</a></p>
