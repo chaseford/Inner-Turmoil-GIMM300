@@ -9,6 +9,10 @@
 			<h1>Our Team</h1>
 		</header>
 	<class = "Chase">
+		<stlye>
+			
+			
+		</stlye>
 		<article>
 			<p>Posted by Inner Turmoil on February 3, 2018</p>
 			<h2>Chase Ford</h2>
@@ -19,15 +23,50 @@
 		</article>
 		</class>
 		<class = "Zoe">
-		<article>
+			<style>
+				h2 {
+					font-family: "bubbler-one";
+					font-size: 16px;
+				}
+				h3 {
+					font-family: "bubbler-one";
+					
+				}
+				.color-background {
+					background-color: whitesmoke;
+					
+					width: 30%;
+					float: left;
+					text-align: right;
+					
+				}
+			
+			</style>
+			<div class= "color-background""left">
+			
+			<article>
 			<h2>Zoe Doman</h2>
 			<img src ="file:///C:/Users/LabUser/Downloads/IMG_2579.jpeg" alt = "Photo of Zoe Doman" width="150px" height="250px"</img>
 			<h3>All About Me</h3>
 			<h4>I have lived in Boise since I was born and attend Boise State University. Making the decision to major in Game Development was purley based on my love for video games and technology. This field is always growing and I am exciting to be a part of the growth. I consider myself a creative person and aim to express that creativity through the games and interfaces I create. One dream of mine is to eventually make my way over to Japan to broaden my skills and understanding of how technology effects people around the world. Through this course, I hope to create a sturdy coding foundation by developing apps and websites that are not only functional and efficient, but appealing as well.  </h4>
 			
-		</article>
+			</article>
+			</div>
 		</class>
 		<class = "Nathan">
+			<style>
+				
+				.layout-background {
+					background-color: whitesmoke;
+					
+					width: 65%;
+					margin-left: 10px;
+					float: left;
+					
+				}
+			
+			</style>
+			<div class="layout-background">
 		<article>
 			<h2>Nathan Lewis</h2>
 			<img src = "WebsitePhotos/BioPhoto.jpg" alt="Photo of Nathan Lewis" width="150px" height="250px">
@@ -36,6 +75,7 @@
 			<p>Posted by Author on February 3, 2018</p>
 			
 		</article>
+			</div>
 		</class>
 		<footer>
 			<p>&copy;2018 The author <br />
